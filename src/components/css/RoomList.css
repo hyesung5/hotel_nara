@@ -1,0 +1,58 @@
+.ck-editor {
+    max-width: 500px;
+    min-height: 200px;
+}
+.ck-editor__main {
+    height: 200px;
+}
+.ck-editor__editable_inline {
+    height: 200px;
+}
+.editor_Label{
+    margin-top: 12px;
+}
+.ck-hidden {
+    display: 'none';
+}
+
+.RoomNm{
+    margin-bottom: 12px !important;
+}
+.modal_Img_view {
+    height: 100px;
+    width: 100px;
+    margin-right: 5px;
+}
+.imgView{
+    white-space: nowrap;
+    overflow:auto; 
+    width: 470px;
+}
+.MuiDialogContent-root{
+
+overflow-x: hidden;
+}
+
+.MuiFormControl-root{
+    width:180px;
+}
+.infoImgview img{
+    width: 200px;
+    height: 220px;
+    margin-right: 5px;
+    margin-top: 10px;;
+    white-space: nowrap;
+    overflow:auto; 
+}
+
+.HotelNmField{
+
+}
+.RoomNmField{
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+}
+
+.cardroot{
+    display: inline-block;
+}

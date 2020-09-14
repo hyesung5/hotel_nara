@@ -1,0 +1,58 @@
+
+.Facilities {
+float: left;
+margin-right: 10px;
+}
+
+.Facilities_end{
+    margin-right: 10px;
+}
+
+p{
+    text-decoration:none; 
+    color:#000000;
+} 
+p:hover{
+    color:#ff0000;
+} 
+/* nav tag */ 
+ ul{
+    padding-top:10px;
+} 
+/* 상단 여백 10px */ 
+ ul li { 
+    display:inline-block; 
+    /* 세로나열을 가로나열로 변경 */ 
+    /* border-left:1px solid #999;  */
+    /* 각 메뉴의 왼쪽에 "|" 표시(분류 표시) */ 
+    font:bold 12px Dotum; 
+    /* 폰트 설정 - 12px의 돋움체 굵은 글씨로 표시 */ 
+    padding:0 10px; 
+    /* 각 메뉴 간격 */ 
+} 
+ ul li:first-child{
+    border-left:none;
+} 
+
+.zipcode{
+   margin-right: 10px;
+}
+.address{
+    width: 350px;
+    margin-top: 5px;
+}
+.address2{
+    width: 350px;
+    margin-top: 5px;
+}
+.ck-editor__main{
+    height: 400px;;
+}
+
+.regist_select{
+    margin-left: 10px;
+}
+
+.select_div{
+    margin-top: 15px;
+}

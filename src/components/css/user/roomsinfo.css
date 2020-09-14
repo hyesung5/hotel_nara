@@ -1,0 +1,223 @@
+.imagView{
+    height: 100%;
+}
+
+
+.daumMap{
+    height: 600px;
+    width: 500px;
+}
+
+.carousel-style{
+    height: 235px;
+}
+
+.slider-item-div{
+    height: 235px;
+}
+
+.slider-container{
+width:768px;
+ height:235px;
+}
+
+.user_hotel_info_view{
+margin: 0 auto;
+max-width: 76.8rem;
+position: relative;
+}
+
+.info_view{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+}
+.f1e5lflt {
+    background: #FFFFFF;
+    margin: 0 auto;
+    max-width:50rem;
+    position: relative;
+}
+
+.glQsXM {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 35vh;
+    border-bottom: 1px solid #fff;
+}
+
+._12lb1P {
+    position: relative;
+}
+
+._7vbhSS {
+    top: 0;
+    left: 0;
+    display: block;
+    background: #f2f2f2;
+    height: 35vh;
+    
+}
+
+.selected{
+
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.SZOH9J{
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+   -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    max-width: 72.8rem;
+    width: 100%;
+    margin: 0 auto;
+}
+
+._3zO7ol {
+    display: block;
+    font-size: 1.6rem;
+    font-weight: 700;
+    line-height: 1.9rem;
+    width: 100%;
+    height: 4.4rem;
+    margin-left: auto;
+    padding: 1.2rem 1.6rem 1.1rem;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+._1tgxO7 {
+    background: #de2e5f;
+    border: .1rem solid #de2e5f;
+    color: #fff;
+}
+
+._3Y1nYu {
+    position: relative;
+
+    margin: 0 2rem;
+    font-size: 1.3rem;
+    color: #2e2e2e;
+    margin-top: 5px;
+}
+._3AtlRR {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 0!important;
+    padding: 0!important;
+    font-size: 0;
+    line-height: 0;
+    overflow: hidden;
+}
+._5WZGV9 {
+    border: 1px solid #ccc;
+    margin-top: -.1rem;
+    padding-left: 0px;
+}
+._5WZGV9 li:last-child {
+    border-bottom: 0;
+}
+._5WZGV9 li {
+    position: relative;
+    padding: 1.7rem;
+    border-bottom: 1px solid #ccc;
+}
+._2DgjOm {
+    cursor: pointer;
+    padding-top: 0px !important;
+    width: 100%;
+}
+._1SOuA3 {
+    display: block;
+}
+._3t9Fdw {
+    position: relative;
+    padding: 2rem 2rem 0;
+    font-size: 1.3rem;
+    color: #2e2e2e;
+}
+
+.room_info_img{
+    height: 100%;
+}
+
+.info_view_div {
+    background: beige;
+    padding-bottom: 25px;
+}
+
+.daumMap_div{
+  
+    margin-top: 27px;
+
+}
+
+#Mymap{
+    margin: 0 auto;
+}
+.InnerHtml{
+    cursor: default;
+}
+
+.InnerHtml p:hover{
+    color: #2e2e2e;
+}
+
+.f7sw4ne{
+    width: 92%;
+    margin: 0 auto;
+}
+.carousel-status{
+    left: 50%;
+    top: 90% !important;
+}
+
+.control-dots{
+    display: none;
+}
+._5WZGV9 h4 {
+    font-size: 1.5rem;
+    color: #2e2e2e;
+}
+
+._1SOuA3 {
+    display: block;
+}
+._1SOuA3>span {
+    display: block;
+    padding: .2rem 0;
+}
+._2DgjOm {
+    cursor: pointer;
+}
+._5WZGV9 strong {
+    margin-right: .7rem;
+    font-weight: 400;
+    font-size: 0.8rem;
+    color: #919191;
+}
+._5WZGV9 em {
+    font-style: normal;
+    font-size: 0.8rem;
+    color: #616161;
+}
+
+._1hjo1x {
+    margin-top: .3rem;
+}
+._1hjo1x .price {
+    display: block;
+    font-size: 1.8rem;
+    text-align: right;
+    color: #2e2e2e;
+    font-weight: 700;
+    overflow: hidden;
+}

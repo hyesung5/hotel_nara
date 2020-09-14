@@ -1,0 +1,122 @@
+.modal_btn{
+    float: right;
+}
+
+.reservation_page{
+    background: #FFFFFF;
+    margin: 0 auto;
+    max-width: 50rem;
+    position: relative;
+}
+
+.payment-page-content .reservation-period-container{
+    padding: 0 0 2rem;
+}
+.payment-page-content .block-divider{
+    margin-bottom: 8px;
+}
+.payment-page-content>div, .payment-page-content section {
+    background-color: #fff;
+}
+.payment-page-content>div{
+    padding: 2rem;
+}
+
+.payment-page-content .reservation-period-container {
+    padding: 0 0 2rem;
+}
+
+.reservation-period-content {
+    display: flex;
+    background-color: #f9f9f9!important;
+    padding: 10px 30px;
+}
+
+.payment-page-content .block-divider {
+    margin-bottom: 8px;
+}
+.payment-page-content>div {
+    padding: 2rem;
+}
+.reservation-period-content .period-item {
+    flex: 1 1 auto;
+    font-size: 1.5rem;
+}
+
+.reservation-period-content .arrow-icon{
+    flex: 0 1 100px;
+    text-align: center;
+    margin-top: 20px;
+}
+.reservation-period-content .period-item{
+    flex: 1 1 auto;
+    font-size: 1.5rem;
+}
+
+
+.payment-page-content>div{
+    padding: 2rem;
+}
+
+.payment-page-content>div, .payment-page-content section {
+    background-color: #fff;
+}
+
+
+.customer-input-content .title-containe {
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.5rem;
+}
+
+.customer-input-content ul {
+    padding: 0;
+    margin-top: 2rem;
+}
+
+.back_ground{
+    background: beige;
+}
+
+.payment-border{
+    border: 1px solid;
+}
+
+.customer-border{
+    border: 1px solid;
+}
+
+.date-border{
+    border: 1px solid;
+}
+
+.terms-border{
+    border: 1px solid;
+
+}
+
+.input-username{
+    padding-bottom: 14px;
+}
+
+.input-li {
+    width: 100%;
+}
+.text-filed{
+    width: 35%;
+}
+
+
+.virtualaccount-label{
+    margin-right:20px;
+}
+
+.account_hidden{
+    display: none;
+}
+
+.toolbar-title{
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+}

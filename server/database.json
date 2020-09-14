@@ -1,0 +1,10 @@
+{
+
+    "host":"localhost",
+    "user":"admin",
+    "password":"admin@321654",
+    "port": "3306",
+    "database":"management"
+
+
+}

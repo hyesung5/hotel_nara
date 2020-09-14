@@ -1,0 +1,12 @@
+.user_hotel_room_list{
+width: 900px;
+    position: absolute;
+    left: 50%;
+    margin-left: -450px;
+    margin-bottom: 60px
+}
+
+.MuiPaper-root{
+    margin-bottom: 5px !important;
+}
+

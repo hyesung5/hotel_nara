@@ -1,0 +1,7 @@
+.res_calrandal_modal  .MuiDialog-container  .MuiDialog-paperWidthSm{
+    max-width: 100% !important; 
+}
+
+.row{
+    max-width: 900px !important;
+}

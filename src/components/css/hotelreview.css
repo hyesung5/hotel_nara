@@ -1,0 +1,30 @@
+.MuiDialog-paperWidthSm{
+    /* width: 40% !important; */
+}
+
+.review_text {
+    width:  100%;
+}
+
+.tUdPZa{
+    border-top: 1px solid #e6e6e6;
+}
+
+.review_resize_div{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.review_btn{
+    top: 50%;
+    left: 50%;
+    width: 150px;
+    margin-left: -75px !important;
+    margin-top: 30px !important;
+}
+
+.btn_section{
+    border-top: 1px solid;
+    
+    padding-bottom: 40px;
+}

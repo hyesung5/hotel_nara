@@ -1,0 +1,56 @@
+.EnterID{
+width: 20ch;
+}
+
+.EnterNAME{
+    margin-top: 5px !important;
+}
+.id_chk_btn{
+    margin-left: 10px !important;
+    margin-top: 8px !important;
+}
+
+.address_add_btn{
+    margin-left: 10px !important;
+    margin-top: 8px !important;
+}
+.EnterPASSWORD{
+    margin-top: 5px !important;
+    width: 25ch !important;
+}
+.EnterPASSWORD_chk{
+    margin-top: 5px !important;
+    width: 25ch !important;
+}
+
+.EnterGENDER{
+    margin-top: 5px !important;
+}
+
+.EnterYEAR{
+    margin-top: 5px !important;
+    width: 20% !important;
+}
+.EnterMONTH{
+    margin-top: 29px !important;
+}
+.EnterDAY{
+    margin-top: 5px !important;
+    width: 10ch !important;
+}
+.EnterPHONE{
+    margin-top: 5px !important;
+}
+.EnterZIPCODE{
+    margin-top: 5px !important;
+    width: 25ch !important;
+}
+.EnterADDRESS1{
+    margin-top: 5px !important;
+    width: 42ch !important;
+}
+
+.EnterADDRESS2{
+    margin-top: 5px !important;
+    width: 42ch !important;
+}

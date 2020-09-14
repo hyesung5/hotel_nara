@@ -1,0 +1,31 @@
+.card_root{
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    float: left;
+    margin-right: 10px;
+    height: 310px;
+}
+
+.MuiCardHeader-root{
+    height: 85px;
+}
+
+.hotel_CardMedia{
+    width: 95%!important;
+    height: 190px !important;
+    float: left !important;
+    margin: 10px 10px 10px 10px !important;
+    border-radius: inherit !important;
+}
+.hotel_CardHead { 
+    font-weight: bold !important;
+    font-size: large !important;
+    color: black !important;
+}
+
+.user_hotel_list{
+    width: 80%;
+    margin: 0 auto;
+}

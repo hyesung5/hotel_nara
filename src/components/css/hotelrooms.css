@@ -1,0 +1,24 @@
+.hotelrooms_CardMedia{
+    width: 300px!important;
+    height: 250px;
+    float: left;
+    margin: 10px 10px 10px 10px;
+    border-radius: inherit;
+}
+
+.hotelrooms_CardContent{
+    float: left;
+    width: 60%;
+    height: 244px;
+    margin-top: 13px;
+
+}
+.hotrelrooms_price{
+    float: right;
+    padding-top: 50px;
+    font-size: larger;
+    font-weight: bold;
+}
+.hotelrooms_checkin{
+    padding-top: 30px;
+}
